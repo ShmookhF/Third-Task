@@ -66,7 +66,7 @@ $ git clone -b noetic-devel https://github.com/ROBOTIS-GIT/turtlebot3_simulation
 $ cd ~/catkin_ws && catkin_make
 
 ```
-# Install Simulation Package
+# Launch Simulation World
 Launch Simulation World
 ```
 $ export TURTLEBOT3_MODEL=burger
